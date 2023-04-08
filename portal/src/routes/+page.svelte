@@ -1,6 +1,5 @@
 <script>
-	import What from "./What.svelte";
+  import Main from "./Main.svelte";
 </script>
 
-<What /> 
-
+<Main />
