@@ -4,9 +4,9 @@ import { onMount } from "svelte";
 
 const navItems = [
   { title: "Home", href: "/" },
-  { title: "About", href: "#about" },
-  { title: "Team", href: "#team" },
+  { title: "Services", href: "#services" },
   { title: "Portfolio", href: "#portfolio" },
+  { title: "Team", href: "#team" },
   { title: "Contact", href: "#contact" },
 ];
 </script>
@@ -15,7 +15,7 @@ const navItems = [
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
   
-    <title>KMSB S/B</title>
+    <title>Kinabalu Makers Sdn Bhd (1231808-V)</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
   

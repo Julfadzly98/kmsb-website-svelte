@@ -1,11 +1,11 @@
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="d-flex align-items-center">
-  <div class="container position-relative">
+  <div class="container position-relative" style="padding-top: 4%;">
     <h1>Welcome to Kinabalu Makers Sdn Bhd</h1>
     <br>
-    <h2>We are team of Software and Hardware and focusing in Web Development, Robotics & Trainings</h2>
+    <h2>We are a team of Software and Hardware and focusing in Web Dev, Data Dev, Robotics & Trainings</h2>
     <!-- svelte-ignore a11y-invalid-attribute -->
-    <a href="#about" class="btn-get-started scrollto">About Us</a>
+    <a href="https://docs.google.com/document/d/1s2SrTVjec2Jc2QAJ4dYRszU_R5wIhAjTRWngAes9PW0/edit?usp=sharing" class="btn-get-started scrollto">Company Profile</a>
   </div>
 </section><!-- End Hero -->
 
@@ -37,68 +37,69 @@
                      <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" style="">
                         <h3><b>Kinabalu Makers</b></h3>
                         <br>
-                          <p class="fst-italic">
+                          <p>
 
-                            Kinabalu Makers Sdn Bhd (KMSB), founded on 22nd May 2017 aims to be a premier solutions and knowledge provider in the fields of technology such as big data, applications development and Internet of Things (IoT).
-                              KMSB obtains its intellectual property and talents from volunteers at a local non-profit, Persatuan Pengaturcara & Pembina Ict Sabah or also known as Kinabalu Coders (KC). 
-                            <br>
-                            <br>
-
-                            The companys focus is on electronics and Internet of Things (IoT),
-                            data engineering and machine learning, DevOps, cybersecurity, robotics,
-                            and embedded electronics development.
+                            Kinabalu Makers Sdn Bhd (KMSB) is a full-stack software development and consultancy company based in Kota Kinabalu, Sabah, Malaysia. Established in 2018, KMSB provides a comprehensive range of services, including software development, data engineering, IoT and robotics solutions, as well as training and coaching services to businesses across various industries. 
+                            Our team of experienced professionals leverages the latest technologies and methodologies to deliver high-quality solutions that drive business success for our clients.
                             <br>
                             <br>
 
-                            KMSB is committed to helping customers achieve their desired outcomes
-                            through innovative solutions and dedicated service.
-                            With a team of experienced and talented professionals, KMSB provides a
-                            comprehensive range of services that are designed to meet the unique
-                            needs of each client. The company is a valuable addition to Sabah's
-                            growing tech ecosystem and represents a significant contribution to the
-                            region's socio-economic development.
+                            At Kinabalu Makers Sdn Bhd, our focus is on providing cutting-edge solutions in a variety of areas, including electronics and Internet of Things (IoT), data engineering and machine learning, DevOps, cybersecurity, robotics, and embedded electronics development. Our team of experts leverages the latest tools, technologies, and best practices to deliver innovative and customized solutions that meet the unique needs of our clients. 
+                            Whether you're looking to implement a complex IoT solution, build a secure DevOps pipeline, or develop sophisticated robotics systems, we have the expertise and experience needed to help you succeed.
+                            <br>
+                            <br>
+
+                            At Kinabalu Makers Sdn Bhd, we are committed to delivering innovative solutions and dedicated service to help our clients achieve their desired outcomes. Our team of experienced and talented professionals brings a wealth of expertise and creativity to every project, ensuring that we deliver high-quality results that exceed expectations. We pride ourselves on our ability to provide customized solutions that are tailored to meet the unique needs of each client, and we work closely with our clients throughout the development process to ensure that we are delivering solutions that align with their goals and objectives. 
+                            Our commitment to excellence has made us a valuable addition to Sabah's growing tech ecosystem, and we are proud to be making a significant contribution to the region's socio-economic development.
                               <br>
                               <br>
                        </div> 
                     
           </div>
 
-          <div class="containerss">
-                <div class="boxss">
-                      <h3>Software Dev</h3>
-                      <br>
-                      <p style="font-size: 12.5px; text-align: justify;">We provide full stack software (web &amp; mobile) development.
-                        Our stack of technologies include Python, TypeScript, Flask,
-                        FastAPI, Nest.js, Angular, Svelte, and Ionic. <br> Then, our cloud platforms
-                        on Google Cloud Platform,
-                        Microsoft Azure, Amazon Web Services and Digital Ocean.</p>
-                </div>
-                <div class="boxss">
-                      <h3>Makers Dev</h3>
-                      <br>
-                      <p style="font-size: 12.5px; text-align: justify;">We asssist in the design, prototype and deployment of various
-                        IoT or robotics solutions bridging hardware and software. <br>
-                        Our stack of technologies include Raspberry Pi, Orange Pi, Arduino,
-                        ESP32, MicroPython, C, Robot Operating System, Node-RED and
-                        various other smart home.</p>
-                </div>
-                <div class="boxss">
-                      <h3>Data Dev</h3>
-                      <br>
-                      <p style="font-size: 12.5px; text-align: justify;">We provide services in the field of data such as data engineering,
-                        data modeling, and data visualization. <br>Our stack of technologies
-                        include PostgreSQL, MariaDB, MySQL, SQLite, Redis, Apache Airflow,
-                        Apache Beam, Grafana, Metabase and Open Meta Data</p>
-                </div>
-                <div class="boxss">
-                    <h3>Training</h3>
-                    <br>
-                    <p style="font-size: 12.8px; text-align: justify;">We offer training and coaching service for upskilling for teams
-                      needing upgrade of skills. <br> We do offer coaching services
-                      (we teach and your team implement) in digital product development</p>
-              </div>
-        </div>
+      
   </section><!-- End About Section -->
+
+  <section id="services">
+
+    <div class="container">
+      <div class="section-title">
+        <span>Services</span>
+        <h2>Services</h2>
+        <p>Our Services</p>
+      </div>
+
+    <div class="containerss">
+      <div class="boxss">
+            <h3>Software Dev</h3>
+            <br>
+            <p style="font-size: 11px; text-align: justify;">We specialize in full-stack software development for both web and mobile applications. 
+              Our team leverages a variety of cutting-edge technologies, including Python, TypeScript, Flask, FastAPI, Nest.js, Angular, Svelte, and Ionic to deliver customized solutions that meet our clients' unique needs. <br> <br>
+              Additionally, we have extensive experience working with cloud platforms, such as Google Cloud Platform, Microsoft Azure, Amazon Web Services, and Digital Ocean, which enables us to provide scalable and reliable solutions that align with our clients' business objectives.</p>
+      </div>
+      <div class="boxss">
+            <h3>Makers Dev</h3>
+            <br>
+            <p style="font-size: 11px; text-align: justify;">At Kinabalu Makers Sdn Bhd, we specialize in assisting clients with the design, prototyping, and deployment of IoT and robotics solutions that bridge hardware and software. <br><br>
+              Our team of experts leverages a variety of technologies, including Raspberry Pi, Orange Pi, Arduino, ESP32, MicroPython, C, Robot Operating System, Node-RED, and various other smart home solutions to deliver customized and innovative solutions that meet our clients' unique needs. 
+              Whether it's a complex robotics project or a sophisticated IoT solution, our team has the skills and experience needed to ensure successful deployment and operation.</p>
+      </div>
+      <div class="boxss">
+            <h3>Data Dev</h3>
+            <br>
+            <p style="font-size: 11px; text-align: justify;">Kinabalu Makers Sdn Bhd offers comprehensive services in the field of data, including data engineering, data modeling, and data visualization. <br><br>
+              Our team of experts leverages a variety of cutting-edge technologies, such as PostgreSQL, MariaDB, MySQL, SQLite, Redis, Apache Airflow, Apache Beam, Grafana, Metabase, and Open Meta Data to deliver customized solutions that meet our clients' unique needs. 
+              With a focus on quality and accuracy, we help our clients unlock the full potential of their data, enabling them to make informed decisions and drive business success.</p>
+      </div>
+      <div class="boxss">
+          <h3>Trainings</h3>
+          <br>
+          <p style="font-size: 11px; text-align: justify;">At Kinabalu Makers Sdn Bhd, we offer training and coaching services to help teams upgrade their skills and stay up-to-date with the latest trends and technologies in digital product development.
+            Our customized training programs are designed to meet the unique needs of each client, and we offer both on-site and remote training options for maximum flexibility. <br><br> In addition, we also offer coaching services, where our team of experts provides guidance and instruction to your team, empowering them to implement digital product development solutions with confidence and skill. 
+            Whether you're looking to upskill your team or need help navigating a complex digital product development project, we have the expertise and experience needed to help you succeed.</p>
+    </div>
+</div>
+  </section>
 
 
 
@@ -346,10 +347,22 @@
                   </div>
                 </div>
 
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                  <div class="member">
+                    <img src="static/yms.png" alt="">
+                    <h4 style="padding-top: 2%;">YMS</h4>
+                    <span>Youth Management System (Kementerian Belia dan Sukan)</span>
+                    <div class="social" style="padding-top: 1%;">
+                     <!-- svelte-ignore a11y-invalid-attribute -->
+                     <a href="https://ekbss.sabah.gov.my/"><i class="bx bx-link-external" style="font-size: 50px;"></i></a>
+                    </div>
+                  </div>
+                </div>
+
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <img src="static/aquams.jpg" alt="">
-                <h4>AQUAMS</h4>
+                <h4 style="padding-top: 2%;">AQUAMS</h4>
                 <span>Air Quality Monitoring System (AQUAMS)</span>
                 <div class="social" style="padding-top: 5%;">
                  <!-- svelte-ignore a11y-invalid-attribute -->
@@ -360,23 +373,9 @@
 
               <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                 <div class="member">
-                  <img src="static/css.png" alt="">
-                  <h4>Empty</h4>
-                  <span>...</span>
-                  <div class="social" style="padding-top: 5%;">
-                   <!-- svelte-ignore a11y-invalid-attribute -->
-                   <a href=""><i class="bx bx-link-external" style="font-size: 50px;"></i></a>
-                  </div>
-                </div>
-              </div>
-
-
-
-              <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-                <div class="member">
-                  <img src="static/css.png" alt="">
-                  <h4>Empty</h4>
-                  <span>...</span>
+                  <img src="static/pieyes.jpg" alt="" style="height:200px; width: 616px;">
+                  <h4 style="padding-top: 2%;">Pi-Eyes</h4>
+                  <span>Marine Pi-Eyes</span>
                   <div class="social" style="padding-top: 5%;">
                    <!-- svelte-ignore a11y-invalid-attribute -->
                    <a href=""><i class="bx bx-link-external" style="font-size: 50px;"></i></a>
